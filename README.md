@@ -18,7 +18,7 @@ World best hackers tool for bughunters and blackhat hackers. A tool more powerfu
 - sage (Tools by AnonyminHack5)
 - whoami (Your ip and Location)
 
-#Installation in Termux
+# Installation in Termux
 
 > pkg install lolcat
 
